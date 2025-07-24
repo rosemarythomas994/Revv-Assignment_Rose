@@ -74,3 +74,4 @@ wwwroot\images\Toyota_Highlander_rose_20250718122711.jpg
 wwwroot\images\Toyota_Innova_joseph_20250716090555.jpg
 wwwroot\images\Van_Base Model_rose_20250721082517.jpg
 wwwroot\images\Chevrolet_Malibu_rose_20250721082920.jpg
+wwwroot\images\Chevrolet_Tahoe_rose_20250722040303.jpg

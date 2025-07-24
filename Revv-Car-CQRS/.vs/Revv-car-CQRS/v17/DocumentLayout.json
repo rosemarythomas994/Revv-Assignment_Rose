@@ -1,7 +1,188 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\revv\\Csharp\\Revv-car-CQRS\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|e:\\revv\\csharp\\revv-car-cqrs\\revv-car-cqrs\\revv-car-cqrs.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|solutionrelative:revv-car-cqrs\\revv-car-cqrs.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|e:\\revv\\csharp\\revv-car-cqrs\\revv-car-cqrs\\revv_car_cqrs.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|solutionrelative:revv-car-cqrs\\revv_car_cqrs.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|e:\\revv\\csharp\\revv-car-cqrs\\revv-car-cqrs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|solutionrelative:revv-car-cqrs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|e:\\revv\\csharp\\revv-car-cqrs\\revv-car-cqrs\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|solutionrelative:revv-car-cqrs\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|e:\\revv\\csharp\\revv-car-cqrs\\revv-car-cqrs\\getallcarsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|solutionrelative:revv-car-cqrs\\getallcarsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|e:\\revv\\csharp\\revv-car-cqrs\\revv-car-cqrs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|solutionrelative:revv-car-cqrs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|e:\\revv\\csharp\\revv-car-cqrs\\revv-car-cqrs\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|solutionrelative:revv-car-cqrs\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|e:\\revv\\csharp\\revv-car-cqrs\\revv-car-cqrs\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|solutionrelative:revv-car-cqrs\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|e:\\revv\\csharp\\revv-car-cqrs\\revv-car-cqrs\\repository\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|solutionrelative:revv-car-cqrs\\repository\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|e:\\revv\\csharp\\revv-car-cqrs\\revv-car-cqrs\\repository\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|solutionrelative:revv-car-cqrs\\repository\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|e:\\revv\\csharp\\revv-car-cqrs\\revv-car-cqrs\\queryhandler\\getcarbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|solutionrelative:revv-car-cqrs\\queryhandler\\getcarbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|e:\\revv\\csharp\\revv-car-cqrs\\revv-car-cqrs\\queryhandler\\getallcarsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|solutionrelative:revv-car-cqrs\\queryhandler\\getallcarsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|e:\\revv\\csharp\\revv-car-cqrs\\revv-car-cqrs\\queries\\getcarbyidqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|solutionrelative:revv-car-cqrs\\queries\\getcarbyidqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|e:\\revv\\csharp\\revv-car-cqrs\\revv-car-cqrs\\queries\\getcarbyidqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|solutionrelative:revv-car-cqrs\\queries\\getcarbyidqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|e:\\revv\\csharp\\revv-car-cqrs\\revv-car-cqrs\\queries\\getallcarsqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|solutionrelative:revv-car-cqrs\\queries\\getallcarsqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|e:\\revv\\csharp\\revv-car-cqrs\\revv-car-cqrs\\queries\\getallcarsqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|solutionrelative:revv-car-cqrs\\queries\\getallcarsqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|e:\\revv\\csharp\\revv-car-cqrs\\revv-car-cqrs\\notifications\\carcreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|solutionrelative:revv-car-cqrs\\notifications\\carcreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|e:\\revv\\csharp\\revv-car-cqrs\\revv-car-cqrs\\notifications\\handlers\\carcreatedeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|solutionrelative:revv-car-cqrs\\notifications\\handlers\\carcreatedeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|e:\\revv\\csharp\\revv-car-cqrs\\revv-car-cqrs\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|solutionrelative:revv-car-cqrs\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|e:\\revv\\csharp\\revv-car-cqrs\\revv-car-cqrs\\model\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|solutionrelative:revv-car-cqrs\\model\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|e:\\revv\\csharp\\revv-car-cqrs\\revv-car-cqrs\\model\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|solutionrelative:revv-car-cqrs\\model\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|e:\\revv\\csharp\\revv-car-cqrs\\revv-car-cqrs\\model\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|solutionrelative:revv-car-cqrs\\model\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|e:\\revv\\csharp\\revv-car-cqrs\\revv-car-cqrs\\model\\carupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|solutionrelative:revv-car-cqrs\\model\\carupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|e:\\revv\\csharp\\revv-car-cqrs\\revv-car-cqrs\\model\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|solutionrelative:revv-car-cqrs\\model\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|e:\\revv\\csharp\\revv-car-cqrs\\revv-car-cqrs\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|solutionrelative:revv-car-cqrs\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|e:\\revv\\csharp\\revv-car-cqrs\\revv-car-cqrs\\logs\\logfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|solutionrelative:revv-car-cqrs\\logs\\logfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|e:\\revv\\csharp\\revv-car-cqrs\\revv-car-cqrs\\filter\\globalexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|solutionrelative:revv-car-cqrs\\filter\\globalexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|e:\\revv\\csharp\\revv-car-cqrs\\revv-car-cqrs\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|solutionrelative:revv-car-cqrs\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|e:\\revv\\csharp\\revv-car-cqrs\\revv-car-cqrs\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|solutionrelative:revv-car-cqrs\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|e:\\revv\\csharp\\revv-car-cqrs\\revv-car-cqrs\\commands\\updatecarcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|solutionrelative:revv-car-cqrs\\commands\\updatecarcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|e:\\revv\\csharp\\revv-car-cqrs\\revv-car-cqrs\\commands\\updatecarcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|solutionrelative:revv-car-cqrs\\commands\\updatecarcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|e:\\revv\\csharp\\revv-car-cqrs\\revv-car-cqrs\\commands\\registerusercommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|solutionrelative:revv-car-cqrs\\commands\\registerusercommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|e:\\revv\\csharp\\revv-car-cqrs\\revv-car-cqrs\\commands\\registerusercommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|solutionrelative:revv-car-cqrs\\commands\\registerusercommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|e:\\revv\\csharp\\revv-car-cqrs\\revv-car-cqrs\\commands\\loginusercommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|solutionrelative:revv-car-cqrs\\commands\\loginusercommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|e:\\revv\\csharp\\revv-car-cqrs\\revv-car-cqrs\\commands\\deletecarcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|solutionrelative:revv-car-cqrs\\commands\\deletecarcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|e:\\revv\\csharp\\revv-car-cqrs\\revv-car-cqrs\\commands\\deletecarcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|solutionrelative:revv-car-cqrs\\commands\\deletecarcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|e:\\revv\\csharp\\revv-car-cqrs\\revv-car-cqrs\\commands\\createcarcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|solutionrelative:revv-car-cqrs\\commands\\createcarcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|e:\\revv\\csharp\\revv-car-cqrs\\revv-car-cqrs\\commands\\createcarcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|solutionrelative:revv-car-cqrs\\commands\\createcarcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|e:\\revv\\csharp\\revv-car-cqrs\\revv-car-cqrs\\commandhandlers\\updatecarcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|solutionrelative:revv-car-cqrs\\commandhandlers\\updatecarcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|e:\\revv\\csharp\\revv-car-cqrs\\revv-car-cqrs\\commandhandlers\\registerusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|solutionrelative:revv-car-cqrs\\commandhandlers\\registerusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|e:\\revv\\csharp\\revv-car-cqrs\\revv-car-cqrs\\commandhandlers\\loginusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|solutionrelative:revv-car-cqrs\\commandhandlers\\loginusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|e:\\revv\\csharp\\revv-car-cqrs\\revv-car-cqrs\\commandhandlers\\deletecarcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|solutionrelative:revv-car-cqrs\\commandhandlers\\deletecarcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|e:\\revv\\csharp\\revv-car-cqrs\\revv-car-cqrs\\commandhandlers\\createcarcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|solutionrelative:revv-car-cqrs\\commandhandlers\\createcarcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|e:\\revv\\csharp\\revv-car-cqrs\\revv-car-cqrs\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|solutionrelative:revv-car-cqrs\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|e:\\revv\\csharp\\revv-car-cqrs\\revv-car-cqrs\\revv_car_cqrs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3311CEC5-15E3-438A-9E95-2B77D0AA5CC9}|Revv-car-CQRS\\Revv_car_CQRS.csproj|solutionrelative:revv-car-cqrs\\revv_car_cqrs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -9,11 +190,596 @@
       "DocumentGroups": [
         {
           "DockedHeight": 227,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 43,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Revv_car_CQRS.csproj.Backup.tmp",
+              "DocumentMoniker": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Revv_car_CQRS.csproj.Backup.tmp",
+              "RelativeDocumentMoniker": "Revv-car-CQRS\\Revv_car_CQRS.csproj.Backup.tmp",
+              "ToolTip": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Revv_car_CQRS.csproj.Backup.tmp",
+              "RelativeToolTip": "Revv-car-CQRS\\Revv_car_CQRS.csproj.Backup.tmp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-24T05:25:46.521Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\appsettings.json",
+              "RelativeDocumentMoniker": "Revv-car-CQRS\\appsettings.json",
+              "ToolTip": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\appsettings.json",
+              "RelativeToolTip": "Revv-car-CQRS\\appsettings.json",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-24T05:25:10.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Revv-car-CQRS\\Repository\\UserRepository.cs",
+              "ToolTip": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Revv-car-CQRS\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T05:25:08.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Revv-car-CQRS\\Repository\\IUserRepository.cs",
+              "ToolTip": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Repository\\IUserRepository.cs",
+              "RelativeToolTip": "Revv-car-CQRS\\Repository\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T05:25:06.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICarRepository.cs",
+              "DocumentMoniker": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Repository\\ICarRepository.cs",
+              "RelativeDocumentMoniker": "Revv-car-CQRS\\Repository\\ICarRepository.cs",
+              "ToolTip": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Repository\\ICarRepository.cs",
+              "RelativeToolTip": "Revv-car-CQRS\\Repository\\ICarRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T05:25:02.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CarRepository.cs",
+              "DocumentMoniker": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Repository\\CarRepository.cs",
+              "RelativeDocumentMoniker": "Revv-car-CQRS\\Repository\\CarRepository.cs",
+              "ToolTip": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Repository\\CarRepository.cs",
+              "RelativeToolTip": "Revv-car-CQRS\\Repository\\CarRepository.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T05:24:58.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetCarByIdQueryHandler.cs",
+              "DocumentMoniker": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\QueryHandler\\GetCarByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "Revv-car-CQRS\\QueryHandler\\GetCarByIdQueryHandler.cs",
+              "ToolTip": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\QueryHandler\\GetCarByIdQueryHandler.cs",
+              "RelativeToolTip": "Revv-car-CQRS\\QueryHandler\\GetCarByIdQueryHandler.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T05:24:55.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetAllCarsQueryHandler.cs",
+              "DocumentMoniker": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\QueryHandler\\GetAllCarsQueryHandler.cs",
+              "RelativeDocumentMoniker": "Revv-car-CQRS\\QueryHandler\\GetAllCarsQueryHandler.cs",
+              "ToolTip": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\QueryHandler\\GetAllCarsQueryHandler.cs",
+              "RelativeToolTip": "Revv-car-CQRS\\QueryHandler\\GetAllCarsQueryHandler.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T05:24:52.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetCarByIdQueryResponse.cs",
+              "DocumentMoniker": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Queries\\GetCarByIdQueryResponse.cs",
+              "RelativeDocumentMoniker": "Revv-car-CQRS\\Queries\\GetCarByIdQueryResponse.cs",
+              "ToolTip": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Queries\\GetCarByIdQueryResponse.cs",
+              "RelativeToolTip": "Revv-car-CQRS\\Queries\\GetCarByIdQueryResponse.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA8wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T05:24:49.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetCarByIdQueryRequest.cs",
+              "DocumentMoniker": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Queries\\GetCarByIdQueryRequest.cs",
+              "RelativeDocumentMoniker": "Revv-car-CQRS\\Queries\\GetCarByIdQueryRequest.cs",
+              "ToolTip": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Queries\\GetCarByIdQueryRequest.cs",
+              "RelativeToolTip": "Revv-car-CQRS\\Queries\\GetCarByIdQueryRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T05:24:47.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetAllCarsQueryResponse.cs",
+              "DocumentMoniker": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Queries\\GetAllCarsQueryResponse.cs",
+              "RelativeDocumentMoniker": "Revv-car-CQRS\\Queries\\GetAllCarsQueryResponse.cs",
+              "ToolTip": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Queries\\GetAllCarsQueryResponse.cs",
+              "RelativeToolTip": "Revv-car-CQRS\\Queries\\GetAllCarsQueryResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T05:24:46.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetAllCarsQueryRequest.cs",
+              "DocumentMoniker": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Queries\\GetAllCarsQueryRequest.cs",
+              "RelativeDocumentMoniker": "Revv-car-CQRS\\Queries\\GetAllCarsQueryRequest.cs",
+              "ToolTip": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Queries\\GetAllCarsQueryRequest.cs",
+              "RelativeToolTip": "Revv-car-CQRS\\Queries\\GetAllCarsQueryRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T05:24:44.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CarCreatedEvent.cs",
+              "DocumentMoniker": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Notifications\\CarCreatedEvent.cs",
+              "RelativeDocumentMoniker": "Revv-car-CQRS\\Notifications\\CarCreatedEvent.cs",
+              "ToolTip": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Notifications\\CarCreatedEvent.cs",
+              "RelativeToolTip": "Revv-car-CQRS\\Notifications\\CarCreatedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T05:24:38.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CarCreatedEventHandler.cs",
+              "DocumentMoniker": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Notifications\\Handlers\\CarCreatedEventHandler.cs",
+              "RelativeDocumentMoniker": "Revv-car-CQRS\\Notifications\\Handlers\\CarCreatedEventHandler.cs",
+              "ToolTip": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Notifications\\Handlers\\CarCreatedEventHandler.cs",
+              "RelativeToolTip": "Revv-car-CQRS\\Notifications\\Handlers\\CarCreatedEventHandler.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T05:24:34.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Revv-car-CQRS\\Model\\User.cs",
+              "ToolTip": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Model\\User.cs",
+              "RelativeToolTip": "Revv-car-CQRS\\Model\\User.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T05:24:28.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MongoDBSettings.cs",
+              "DocumentMoniker": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Model\\MongoDBSettings.cs",
+              "RelativeDocumentMoniker": "Revv-car-CQRS\\Model\\MongoDBSettings.cs",
+              "ToolTip": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Model\\MongoDBSettings.cs",
+              "RelativeToolTip": "Revv-car-CQRS\\Model\\MongoDBSettings.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T05:24:27.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Model\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Revv-car-CQRS\\Model\\LoginRequest.cs",
+              "ToolTip": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Model\\LoginRequest.cs",
+              "RelativeToolTip": "Revv-car-CQRS\\Model\\LoginRequest.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T05:24:25.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Model\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "Revv-car-CQRS\\Model\\JwtSettings.cs",
+              "ToolTip": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Model\\JwtSettings.cs",
+              "RelativeToolTip": "Revv-car-CQRS\\Model\\JwtSettings.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T05:24:24.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CarUpload.cs",
+              "DocumentMoniker": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Model\\CarUpload.cs",
+              "RelativeDocumentMoniker": "Revv-car-CQRS\\Model\\CarUpload.cs",
+              "ToolTip": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Model\\CarUpload.cs",
+              "RelativeToolTip": "Revv-car-CQRS\\Model\\CarUpload.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T05:24:17.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Car.cs",
+              "DocumentMoniker": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Model\\Car.cs",
+              "RelativeDocumentMoniker": "Revv-car-CQRS\\Model\\Car.cs",
+              "ToolTip": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Model\\Car.cs",
+              "RelativeToolTip": "Revv-car-CQRS\\Model\\Car.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T05:24:14.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "Revv-car-CQRS\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "Revv-car-CQRS\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T05:24:10.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "logfile.txt",
+              "DocumentMoniker": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\logs\\logfile.txt",
+              "RelativeDocumentMoniker": "Revv-car-CQRS\\logs\\logfile.txt",
+              "ToolTip": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\logs\\logfile.txt",
+              "RelativeToolTip": "Revv-car-CQRS\\logs\\logfile.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-07-24T05:24:08.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GlobalExceptionFilter.cs",
+              "DocumentMoniker": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Filter\\GlobalExceptionFilter.cs",
+              "RelativeDocumentMoniker": "Revv-car-CQRS\\Filter\\GlobalExceptionFilter.cs",
+              "ToolTip": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Filter\\GlobalExceptionFilter.cs",
+              "RelativeToolTip": "Revv-car-CQRS\\Filter\\GlobalExceptionFilter.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T05:24:04.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Revv-car-CQRS\\Controllers\\LoginController.cs",
+              "ToolTip": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Revv-car-CQRS\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T05:24:00.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Controllers\\CarController.cs",
+              "RelativeDocumentMoniker": "Revv-car-CQRS\\Controllers\\CarController.cs",
+              "ToolTip": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Controllers\\CarController.cs",
+              "RelativeToolTip": "Revv-car-CQRS\\Controllers\\CarController.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T05:23:54.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UpdateCarCommandResponse.cs",
+              "DocumentMoniker": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Commands\\UpdateCarCommandResponse.cs",
+              "RelativeDocumentMoniker": "Revv-car-CQRS\\Commands\\UpdateCarCommandResponse.cs",
+              "ToolTip": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Commands\\UpdateCarCommandResponse.cs",
+              "RelativeToolTip": "Revv-car-CQRS\\Commands\\UpdateCarCommandResponse.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T05:23:51.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UpdateCarCommandRequest.cs",
+              "DocumentMoniker": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Commands\\UpdateCarCommandRequest.cs",
+              "RelativeDocumentMoniker": "Revv-car-CQRS\\Commands\\UpdateCarCommandRequest.cs",
+              "ToolTip": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Commands\\UpdateCarCommandRequest.cs",
+              "RelativeToolTip": "Revv-car-CQRS\\Commands\\UpdateCarCommandRequest.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T05:23:49.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RegisterUserCommandResponse.cs",
+              "DocumentMoniker": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Commands\\RegisterUserCommandResponse.cs",
+              "RelativeDocumentMoniker": "Revv-car-CQRS\\Commands\\RegisterUserCommandResponse.cs",
+              "ToolTip": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Commands\\RegisterUserCommandResponse.cs",
+              "RelativeToolTip": "Revv-car-CQRS\\Commands\\RegisterUserCommandResponse.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T05:23:47.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RegisterUserCommandRequest.cs",
+              "DocumentMoniker": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Commands\\RegisterUserCommandRequest.cs",
+              "RelativeDocumentMoniker": "Revv-car-CQRS\\Commands\\RegisterUserCommandRequest.cs",
+              "ToolTip": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Commands\\RegisterUserCommandRequest.cs",
+              "RelativeToolTip": "Revv-car-CQRS\\Commands\\RegisterUserCommandRequest.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T05:23:46.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "LoginUserCommandRequest.cs",
+              "DocumentMoniker": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Commands\\LoginUserCommandRequest.cs",
+              "RelativeDocumentMoniker": "Revv-car-CQRS\\Commands\\LoginUserCommandRequest.cs",
+              "ToolTip": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Commands\\LoginUserCommandRequest.cs",
+              "RelativeToolTip": "Revv-car-CQRS\\Commands\\LoginUserCommandRequest.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T05:23:44.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DeleteCarCommandResponse.cs",
+              "DocumentMoniker": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Commands\\DeleteCarCommandResponse.cs",
+              "RelativeDocumentMoniker": "Revv-car-CQRS\\Commands\\DeleteCarCommandResponse.cs",
+              "ToolTip": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Commands\\DeleteCarCommandResponse.cs",
+              "RelativeToolTip": "Revv-car-CQRS\\Commands\\DeleteCarCommandResponse.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T05:23:43.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DeleteCarCommandRequest.cs",
+              "DocumentMoniker": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Commands\\DeleteCarCommandRequest.cs",
+              "RelativeDocumentMoniker": "Revv-car-CQRS\\Commands\\DeleteCarCommandRequest.cs",
+              "ToolTip": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Commands\\DeleteCarCommandRequest.cs",
+              "RelativeToolTip": "Revv-car-CQRS\\Commands\\DeleteCarCommandRequest.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T05:23:41.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CreateCarCommandResponse.cs",
+              "DocumentMoniker": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Commands\\CreateCarCommandResponse.cs",
+              "RelativeDocumentMoniker": "Revv-car-CQRS\\Commands\\CreateCarCommandResponse.cs",
+              "ToolTip": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Commands\\CreateCarCommandResponse.cs",
+              "RelativeToolTip": "Revv-car-CQRS\\Commands\\CreateCarCommandResponse.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T05:23:40.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CreateCarCommandRequest.cs",
+              "DocumentMoniker": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Commands\\CreateCarCommandRequest.cs",
+              "RelativeDocumentMoniker": "Revv-car-CQRS\\Commands\\CreateCarCommandRequest.cs",
+              "ToolTip": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Commands\\CreateCarCommandRequest.cs",
+              "RelativeToolTip": "Revv-car-CQRS\\Commands\\CreateCarCommandRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T05:23:37.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UpdateCarCommandHandler.cs",
+              "DocumentMoniker": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\CommandHandlers\\UpdateCarCommandHandler.cs",
+              "RelativeDocumentMoniker": "Revv-car-CQRS\\CommandHandlers\\UpdateCarCommandHandler.cs",
+              "ToolTip": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\CommandHandlers\\UpdateCarCommandHandler.cs",
+              "RelativeToolTip": "Revv-car-CQRS\\CommandHandlers\\UpdateCarCommandHandler.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAqwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T05:23:24.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "RegisterUserCommandHandler.cs",
+              "DocumentMoniker": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\CommandHandlers\\RegisterUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "Revv-car-CQRS\\CommandHandlers\\RegisterUserCommandHandler.cs",
+              "ToolTip": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\CommandHandlers\\RegisterUserCommandHandler.cs",
+              "RelativeToolTip": "Revv-car-CQRS\\CommandHandlers\\RegisterUserCommandHandler.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T05:23:20.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "LoginUserCommandHandler.cs",
+              "DocumentMoniker": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\CommandHandlers\\LoginUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "Revv-car-CQRS\\CommandHandlers\\LoginUserCommandHandler.cs",
+              "ToolTip": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\CommandHandlers\\LoginUserCommandHandler.cs",
+              "RelativeToolTip": "Revv-car-CQRS\\CommandHandlers\\LoginUserCommandHandler.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T12:28:59.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "DeleteCarCommandHandler.cs",
+              "DocumentMoniker": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\CommandHandlers\\DeleteCarCommandHandler.cs",
+              "RelativeDocumentMoniker": "Revv-car-CQRS\\CommandHandlers\\DeleteCarCommandHandler.cs",
+              "ToolTip": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\CommandHandlers\\DeleteCarCommandHandler.cs",
+              "RelativeToolTip": "Revv-car-CQRS\\CommandHandlers\\DeleteCarCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T12:28:57.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CreateCarCommandHandler.cs",
+              "DocumentMoniker": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\CommandHandlers\\CreateCarCommandHandler.cs",
+              "RelativeDocumentMoniker": "Revv-car-CQRS\\CommandHandlers\\CreateCarCommandHandler.cs",
+              "ToolTip": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\CommandHandlers\\CreateCarCommandHandler.cs",
+              "RelativeToolTip": "Revv-car-CQRS\\CommandHandlers\\CreateCarCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T12:28:54.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetAllCarsQuery.cs",
+              "DocumentMoniker": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\GetAllCarsQuery.cs",
+              "RelativeDocumentMoniker": "Revv-car-CQRS\\GetAllCarsQuery.cs",
+              "ToolTip": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\GetAllCarsQuery.cs",
+              "RelativeToolTip": "Revv-car-CQRS\\GetAllCarsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T11:25:09.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "nlog.config",
+              "DocumentMoniker": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\nlog.config",
+              "RelativeDocumentMoniker": "Revv-car-CQRS\\nlog.config",
+              "ToolTip": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\nlog.config",
+              "RelativeToolTip": "Revv-car-CQRS\\nlog.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-23T11:25:07.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Program.cs",
+              "RelativeDocumentMoniker": "Revv-car-CQRS\\Program.cs",
+              "ToolTip": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Program.cs",
+              "RelativeToolTip": "Revv-car-CQRS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T11:24:56.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Revv-car-CQRS.http",
+              "DocumentMoniker": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Revv-car-CQRS.http",
+              "RelativeDocumentMoniker": "Revv-car-CQRS\\Revv-car-CQRS.http",
+              "ToolTip": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Revv-car-CQRS.http",
+              "RelativeToolTip": "Revv-car-CQRS\\Revv-car-CQRS.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-07-23T11:24:55.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Revv-car-CQRS\\WeatherForecast.cs",
+              "ToolTip": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\WeatherForecast.cs",
+              "RelativeToolTip": "Revv-car-CQRS\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T11:24:54.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Revv_car_CQRS",
+              "DocumentMoniker": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Revv_car_CQRS.csproj",
+              "RelativeDocumentMoniker": "Revv-car-CQRS\\Revv_car_CQRS.csproj",
+              "ToolTip": "E:\\revv\\Csharp\\Revv-car-CQRS\\Revv-car-CQRS\\Revv_car_CQRS.csproj",
+              "RelativeToolTip": "Revv-car-CQRS\\Revv_car_CQRS.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-23T06:39:02.272Z",
+              "EditorCaption": ""
             }
           ]
         }

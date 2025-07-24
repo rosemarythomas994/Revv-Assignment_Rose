@@ -1,0 +1,6 @@
+E:\revv\Csharp\Revv-Car-Onion-Final\Revv.Car.Domain\obj\Debug\net8.0\Revv.Car.Domain.csproj.AssemblyReference.cache
+E:\revv\Csharp\Revv-Car-Onion-Final\Revv.Car.Domain\obj\Debug\net8.0\Revv.Car.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\revv\Csharp\Revv-Car-Onion-Final\Revv.Car.Domain\obj\Debug\net8.0\Revv.Car.Domain.AssemblyInfoInputs.cache
+E:\revv\Csharp\Revv-Car-Onion-Final\Revv.Car.Domain\obj\Debug\net8.0\Revv.Car.Domain.AssemblyInfo.cs
+E:\revv\Csharp\Revv-Car-Onion-Final\Revv.Car.Domain\obj\Debug\net8.0\Revv.Car.Domain.csproj.CoreCompileInputs.cache
+E:\revv\Csharp\Revv-Car-Onion-Final\Revv.Car.Domain\obj\Debug\net8.0\Revv.Car.Domain.sourcelink.json

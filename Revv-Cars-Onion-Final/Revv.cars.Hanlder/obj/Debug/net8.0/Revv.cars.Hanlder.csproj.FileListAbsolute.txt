@@ -1,0 +1,12 @@
+E:\revv\Csharp\Revv-Car-Onion-Final\Revv.cars.Hanlder\obj\Debug\net8.0\Revv.cars.Hanlder.csproj.AssemblyReference.cache
+E:\revv\Csharp\Revv-Car-Onion-Final\Revv.cars.Hanlder\obj\Debug\net8.0\Revv.cars.Hanlder.GeneratedMSBuildEditorConfig.editorconfig
+E:\revv\Csharp\Revv-Car-Onion-Final\Revv.cars.Hanlder\obj\Debug\net8.0\Revv.cars.Hanlder.AssemblyInfoInputs.cache
+E:\revv\Csharp\Revv-Car-Onion-Final\Revv.cars.Hanlder\obj\Debug\net8.0\Revv.cars.Hanlder.AssemblyInfo.cs
+E:\revv\Csharp\Revv-Car-Onion-Final\Revv.cars.Hanlder\obj\Debug\net8.0\Revv.cars.Hanlder.csproj.CoreCompileInputs.cache
+E:\revv\Csharp\Revv-Car-Onion-Final\Revv.cars.Hanlder\obj\Debug\net8.0\Revv.cars.Hanlder.sourcelink.json
+E:\revv\Csharp\Revv-Cars-Onion-Final\Revv.cars.Hanlder\obj\Debug\net8.0\Revv.cars.Hanlder.csproj.AssemblyReference.cache
+E:\revv\Csharp\Revv-Cars-Onion-Final\Revv.cars.Hanlder\obj\Debug\net8.0\Revv.cars.Hanlder.GeneratedMSBuildEditorConfig.editorconfig
+E:\revv\Csharp\Revv-Cars-Onion-Final\Revv.cars.Hanlder\obj\Debug\net8.0\Revv.cars.Hanlder.AssemblyInfoInputs.cache
+E:\revv\Csharp\Revv-Cars-Onion-Final\Revv.cars.Hanlder\obj\Debug\net8.0\Revv.cars.Hanlder.AssemblyInfo.cs
+E:\revv\Csharp\Revv-Cars-Onion-Final\Revv.cars.Hanlder\obj\Debug\net8.0\Revv.cars.Hanlder.csproj.CoreCompileInputs.cache
+E:\revv\Csharp\Revv-Cars-Onion-Final\Revv.cars.Hanlder\obj\Debug\net8.0\Revv.cars.Hanlder.sourcelink.json

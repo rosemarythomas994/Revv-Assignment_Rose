@@ -1,0 +1,14 @@
+E:\revv\Csharp\Revv-Car-Onion-Final\Revv-Car-Onion-Final\obj\Debug\net8.0\Revv-Cars-Onion-Final.csproj.AssemblyReference.cache
+E:\revv\Csharp\Revv-Car-Onion-Final\Revv-Car-Onion-Final\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\revv\Csharp\Revv-Car-Onion-Final\Revv-Car-Onion-Final\obj\Debug\net8.0\Revv-Cars-Onion-Final.GeneratedMSBuildEditorConfig.editorconfig
+E:\revv\Csharp\Revv-Car-Onion-Final\Revv-Car-Onion-Final\obj\Debug\net8.0\Revv-Cars-Onion-Final.AssemblyInfoInputs.cache
+E:\revv\Csharp\Revv-Car-Onion-Final\Revv-Car-Onion-Final\obj\Debug\net8.0\Revv-Cars-Onion-Final.AssemblyInfo.cs
+E:\revv\Csharp\Revv-Car-Onion-Final\Revv-Car-Onion-Final\obj\Debug\net8.0\Revv-Cars-Onion-Final.csproj.CoreCompileInputs.cache
+E:\revv\Csharp\Revv-Car-Onion-Final\Revv-Car-Onion-Final\obj\Debug\net8.0\Revv-Cars-Onion-Final.sourcelink.json
+E:\revv\Csharp\Revv-Cars-Onion-Final\Revv-Cars-Onion-Final\obj\Debug\net8.0\Revv-Cars-Onion-Final.csproj.AssemblyReference.cache
+E:\revv\Csharp\Revv-Cars-Onion-Final\Revv-Cars-Onion-Final\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\revv\Csharp\Revv-Cars-Onion-Final\Revv-Cars-Onion-Final\obj\Debug\net8.0\Revv-Cars-Onion-Final.GeneratedMSBuildEditorConfig.editorconfig
+E:\revv\Csharp\Revv-Cars-Onion-Final\Revv-Cars-Onion-Final\obj\Debug\net8.0\Revv-Cars-Onion-Final.AssemblyInfoInputs.cache
+E:\revv\Csharp\Revv-Cars-Onion-Final\Revv-Cars-Onion-Final\obj\Debug\net8.0\Revv-Cars-Onion-Final.AssemblyInfo.cs
+E:\revv\Csharp\Revv-Cars-Onion-Final\Revv-Cars-Onion-Final\obj\Debug\net8.0\Revv-Cars-Onion-Final.csproj.CoreCompileInputs.cache
+E:\revv\Csharp\Revv-Cars-Onion-Final\Revv-Cars-Onion-Final\obj\Debug\net8.0\Revv-Cars-Onion-Final.sourcelink.json

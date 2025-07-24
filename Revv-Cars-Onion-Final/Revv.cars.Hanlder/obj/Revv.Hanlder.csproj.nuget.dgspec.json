@@ -1,0 +1,271 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\revv\\Csharp\\Revv-Car-Onion-Final\\Revv.cars.Hanlder\\Revv.Hanlder.csproj": {}
+  },
+  "projects": {
+    "E:\\revv\\Csharp\\Revv-Car-Onion-Final\\Revv.cars.Domain\\Revv.cars.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\revv\\Csharp\\Revv-Car-Onion-Final\\Revv.cars.Domain\\Revv.cars.Domain.csproj",
+        "projectName": "Revv.cars.Domain",
+        "projectPath": "E:\\revv\\Csharp\\Revv-Car-Onion-Final\\Revv.cars.Domain\\Revv.cars.Domain.csproj",
+        "packagesPath": "C:\\Users\\Rosemary\\.nuget\\packages\\",
+        "outputPath": "E:\\revv\\Csharp\\Revv-Car-Onion-Final\\Revv.cars.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rosemary\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[13.0.0, )"
+            },
+            "MediatR.Contracts": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[3.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\revv\\Csharp\\Revv-Car-Onion-Final\\Revv.cars.Hanlder\\Revv.Hanlder.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\revv\\Csharp\\Revv-Car-Onion-Final\\Revv.cars.Hanlder\\Revv.Hanlder.csproj",
+        "projectName": "Revv.Hanlder",
+        "projectPath": "E:\\revv\\Csharp\\Revv-Car-Onion-Final\\Revv.cars.Hanlder\\Revv.Hanlder.csproj",
+        "packagesPath": "C:\\Users\\Rosemary\\.nuget\\packages\\",
+        "outputPath": "E:\\revv\\Csharp\\Revv-Car-Onion-Final\\Revv.cars.Hanlder\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rosemary\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\revv\\Csharp\\Revv-Car-Onion-Final\\Revv.cars.Domain\\Revv.cars.Domain.csproj": {
+                "projectPath": "E:\\revv\\Csharp\\Revv-Car-Onion-Final\\Revv.cars.Domain\\Revv.cars.Domain.csproj"
+              },
+              "E:\\revv\\Csharp\\Revv-Car-Onion-Final\\Revv.cars.Shared\\Revv.cars.Shared.csproj": {
+                "projectPath": "E:\\revv\\Csharp\\Revv-Car-Onion-Final\\Revv.cars.Shared\\Revv.cars.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[3.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\revv\\Csharp\\Revv-Car-Onion-Final\\Revv.cars.Shared\\Revv.cars.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\revv\\Csharp\\Revv-Car-Onion-Final\\Revv.cars.Shared\\Revv.cars.Shared.csproj",
+        "projectName": "Revv.cars.Shared",
+        "projectPath": "E:\\revv\\Csharp\\Revv-Car-Onion-Final\\Revv.cars.Shared\\Revv.cars.Shared.csproj",
+        "packagesPath": "C:\\Users\\Rosemary\\.nuget\\packages\\",
+        "outputPath": "E:\\revv\\Csharp\\Revv-Car-Onion-Final\\Revv.cars.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rosemary\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\revv\\Csharp\\Revv-Car-Onion-Final\\Revv.cars.Domain\\Revv.cars.Domain.csproj": {
+                "projectPath": "E:\\revv\\Csharp\\Revv-Car-Onion-Final\\Revv.cars.Domain\\Revv.cars.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[13.0.0, )"
+            },
+            "MediatR.Contracts": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            },
+            "Microsoft.OpenApi": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

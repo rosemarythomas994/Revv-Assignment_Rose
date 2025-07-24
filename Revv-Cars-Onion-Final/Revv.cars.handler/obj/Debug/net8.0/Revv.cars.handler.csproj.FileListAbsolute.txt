@@ -1,0 +1,6 @@
+E:\revv\Csharp\Revv-Cars-Onion-Final\Revv.cars.handler\obj\Debug\net8.0\Revv.cars.handler.csproj.AssemblyReference.cache
+E:\revv\Csharp\Revv-Cars-Onion-Final\Revv.cars.handler\obj\Debug\net8.0\Revv.cars.handler.GeneratedMSBuildEditorConfig.editorconfig
+E:\revv\Csharp\Revv-Cars-Onion-Final\Revv.cars.handler\obj\Debug\net8.0\Revv.cars.handler.AssemblyInfoInputs.cache
+E:\revv\Csharp\Revv-Cars-Onion-Final\Revv.cars.handler\obj\Debug\net8.0\Revv.cars.handler.AssemblyInfo.cs
+E:\revv\Csharp\Revv-Cars-Onion-Final\Revv.cars.handler\obj\Debug\net8.0\Revv.cars.handler.csproj.CoreCompileInputs.cache
+E:\revv\Csharp\Revv-Cars-Onion-Final\Revv.cars.handler\obj\Debug\net8.0\Revv.cars.handler.sourcelink.json

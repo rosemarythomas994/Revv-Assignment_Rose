@@ -1,0 +1,233 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Revv.cars.Web",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Car": {
+      "get": {
+        "tags": [
+          "Car"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Car"
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "ImageFile": {
+                    "type": "string",
+                    "format": "binary"
+                  },
+                  "Brand": {
+                    "type": "string"
+                  },
+                  "Model": {
+                    "type": "string"
+                  },
+                  "Year": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "Place": {
+                    "type": "string"
+                  },
+                  "Number": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "Date": {
+                    "type": "string",
+                    "format": "date-time"
+                  },
+                  "UserId": {
+                    "type": "string"
+                  }
+                }
+              },
+              "encoding": {
+                "ImageFile": {
+                  "style": "form"
+                },
+                "Brand": {
+                  "style": "form"
+                },
+                "Model": {
+                  "style": "form"
+                },
+                "Year": {
+                  "style": "form"
+                },
+                "Place": {
+                  "style": "form"
+                },
+                "Number": {
+                  "style": "form"
+                },
+                "Date": {
+                  "style": "form"
+                },
+                "UserId": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Car/{id}": {
+      "get": {
+        "tags": [
+          "Car"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Car"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "required": [
+                  "Brand",
+                  "Date",
+                  "ImageFile",
+                  "Model",
+                  "Number",
+                  "Place",
+                  "UserId",
+                  "Year"
+                ],
+                "type": "object",
+                "properties": {
+                  "ImageFile": {
+                    "type": "string",
+                    "format": "binary"
+                  },
+                  "Brand": {
+                    "type": "string"
+                  },
+                  "Model": {
+                    "type": "string"
+                  },
+                  "Year": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "Place": {
+                    "type": "string"
+                  },
+                  "Number": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "Date": {
+                    "type": "string"
+                  },
+                  "UserId": {
+                    "type": "string"
+                  }
+                }
+              },
+              "encoding": {
+                "ImageFile": {
+                  "style": "form"
+                },
+                "Brand": {
+                  "style": "form"
+                },
+                "Model": {
+                  "style": "form"
+                },
+                "Year": {
+                  "style": "form"
+                },
+                "Place": {
+                  "style": "form"
+                },
+                "Number": {
+                  "style": "form"
+                },
+                "Date": {
+                  "style": "form"
+                },
+                "UserId": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Car"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}

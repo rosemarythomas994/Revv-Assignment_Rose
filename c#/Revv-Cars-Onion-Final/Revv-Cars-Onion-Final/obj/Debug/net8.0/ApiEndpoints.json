@@ -1,6 +1,6 @@
 [
   {
-    "ContainingType": "Revv.cars.Web.Controllers.CarController",
+    "ContainingType": "Revv.cars.Application.Web.Controllers.CarController",
     "Method": "GetAll",
     "RelativePath": "api/Car",
     "HttpMethod": "GET",
@@ -10,7 +10,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "Revv.cars.Web.Controllers.CarController",
+    "ContainingType": "Revv.cars.Application.Web.Controllers.CarController",
     "Method": "Create",
     "RelativePath": "api/Car",
     "HttpMethod": "POST",
@@ -61,7 +61,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "Revv.cars.Web.Controllers.CarController",
+    "ContainingType": "Revv.cars.Application.Web.Controllers.CarController",
     "Method": "GetById",
     "RelativePath": "api/Car/{id}",
     "HttpMethod": "GET",
@@ -77,7 +77,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "Revv.cars.Web.Controllers.CarController",
+    "ContainingType": "Revv.cars.Application.Web.Controllers.CarController",
     "Method": "Update",
     "RelativePath": "api/Car/{id}",
     "HttpMethod": "PUT",
@@ -133,7 +133,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "Revv.cars.Web.Controllers.CarController",
+    "ContainingType": "Revv.cars.Application.Web.Controllers.CarController",
     "Method": "Delete",
     "RelativePath": "api/Car/{id}",
     "HttpMethod": "DELETE",

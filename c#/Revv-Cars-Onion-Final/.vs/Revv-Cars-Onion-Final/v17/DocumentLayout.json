@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{FD6F43AC-0CD0-912D-6D08-BBE9220083BA}|Revv-Cars-Onion-Final\\Revv.cars.Web.csproj|solutionrelative:revv-cars-onion-final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FD6F43AC-0CD0-912D-6D08-BBE9220083BA}|Revv-Cars-Onion-Final\\Revv.cars.Web.csproj|e:\\revv\\csharp\\revv-cars-onion-final\\revv-cars-onion-final\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD6F43AC-0CD0-912D-6D08-BBE9220083BA}|Revv-Cars-Onion-Final\\Revv.cars.Web.csproj|solutionrelative:revv-cars-onion-final\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E6B343B8-647A-433F-B40E-5FEC24C6D9CC}|Revv.cars.Repo\\Revv.cars.Repo.csproj|e:\\revv\\csharp\\revv-cars-onion-final\\revv.cars.repo\\repository\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6B343B8-647A-433F-B40E-5FEC24C6D9CC}|Revv.cars.Repo\\Revv.cars.Repo.csproj|solutionrelative:revv.cars.repo\\repository\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,32 +19,48 @@
       "RelativeMoniker": "D:0:0:{E6B343B8-647A-433F-B40E-5FEC24C6D9CC}|Revv.cars.Repo\\Revv.cars.Repo.csproj|solutionrelative:revv.cars.repo\\repository\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BF25CAA-F353-4F3C-8F12-61C145B2B030}|Revv.cars.Shared\\Revv.cars.Shared.csproj|e:\\revv\\csharp\\revv-cars-onion-final\\revv.cars.shared\\queries\\getcarbyidqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BF25CAA-F353-4F3C-8F12-61C145B2B030}|Revv.cars.Shared\\Revv.cars.Shared.csproj|solutionrelative:revv.cars.shared\\queries\\getcarbyidqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD6F43AC-0CD0-912D-6D08-BBE9220083BA}|Revv-Cars-Onion-Final\\Revv.cars.Application.Web.csproj|e:\\revv\\csharp\\revv-cars-onion-final\\revv-cars-onion-final\\revv.cars.application.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FD6F43AC-0CD0-912D-6D08-BBE9220083BA}|Revv-Cars-Onion-Final\\Revv.cars.Application.Web.csproj|solutionrelative:revv-cars-onion-final\\revv.cars.application.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BF25CAA-F353-4F3C-8F12-61C145B2B030}|Revv.cars.Shared\\Revv.cars.Shared.csproj|e:\\revv\\csharp\\revv-cars-onion-final\\revv.cars.shared\\queries\\getcarbyidqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BF25CAA-F353-4F3C-8F12-61C145B2B030}|Revv.cars.Shared\\Revv.cars.Shared.csproj|solutionrelative:revv.cars.shared\\queries\\getcarbyidqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCB80056-AFBE-4FAB-8135-60B18E564E7F}|Revv.cars.handler\\Revv.cars.DomainService.csproj|e:\\revv\\csharp\\revv-cars-onion-final\\revv.cars.handler\\repointerface\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB80056-AFBE-4FAB-8135-60B18E564E7F}|Revv.cars.handler\\Revv.cars.DomainService.csproj|solutionrelative:revv.cars.handler\\repointerface\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCB80056-AFBE-4FAB-8135-60B18E564E7F}|Revv.cars.handler\\Revv.cars.DomainService.csproj|e:\\revv\\csharp\\revv-cars-onion-final\\revv.cars.handler\\queryhandler\\getcarbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB80056-AFBE-4FAB-8135-60B18E564E7F}|Revv.cars.handler\\Revv.cars.DomainService.csproj|solutionrelative:revv.cars.handler\\queryhandler\\getcarbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCB80056-AFBE-4FAB-8135-60B18E564E7F}|Revv.cars.handler\\Revv.cars.DomainService.csproj|e:\\revv\\csharp\\revv-cars-onion-final\\revv.cars.handler\\queryhandler\\getallcarsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB80056-AFBE-4FAB-8135-60B18E564E7F}|Revv.cars.handler\\Revv.cars.DomainService.csproj|solutionrelative:revv.cars.handler\\queryhandler\\getallcarsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCB80056-AFBE-4FAB-8135-60B18E564E7F}|Revv.cars.handler\\Revv.cars.DomainService.csproj|e:\\revv\\csharp\\revv-cars-onion-final\\revv.cars.handler\\commandhandler\\updatecarcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB80056-AFBE-4FAB-8135-60B18E564E7F}|Revv.cars.handler\\Revv.cars.DomainService.csproj|solutionrelative:revv.cars.handler\\commandhandler\\updatecarcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCB80056-AFBE-4FAB-8135-60B18E564E7F}|Revv.cars.handler\\Revv.cars.DomainService.csproj|e:\\revv\\csharp\\revv-cars-onion-final\\revv.cars.handler\\commandhandler\\deletecarcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB80056-AFBE-4FAB-8135-60B18E564E7F}|Revv.cars.handler\\Revv.cars.DomainService.csproj|solutionrelative:revv.cars.handler\\commandhandler\\deletecarcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCB80056-AFBE-4FAB-8135-60B18E564E7F}|Revv.cars.handler\\Revv.cars.DomainService.csproj|e:\\revv\\csharp\\revv-cars-onion-final\\revv.cars.handler\\commandhandler\\createcarcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB80056-AFBE-4FAB-8135-60B18E564E7F}|Revv.cars.handler\\Revv.cars.DomainService.csproj|solutionrelative:revv.cars.handler\\commandhandler\\createcarcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6BF25CAA-F353-4F3C-8F12-61C145B2B030}|Revv.cars.Shared\\Revv.cars.Shared.csproj|e:\\revv\\csharp\\revv-cars-onion-final\\revv.cars.shared\\carupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BF25CAA-F353-4F3C-8F12-61C145B2B030}|Revv.cars.Shared\\Revv.cars.Shared.csproj|solutionrelative:revv.cars.shared\\carupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD6F43AC-0CD0-912D-6D08-BBE9220083BA}|Revv-Cars-Onion-Final\\Revv.cars.Web.csproj|e:\\revv\\csharp\\revv-cars-onion-final\\revv-cars-onion-final\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD6F43AC-0CD0-912D-6D08-BBE9220083BA}|Revv-Cars-Onion-Final\\Revv.cars.Web.csproj|solutionrelative:revv-cars-onion-final\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD6F43AC-0CD0-912D-6D08-BBE9220083BA}|Revv-Cars-Onion-Final\\Revv.cars.Application.Web.csproj|e:\\revv\\csharp\\revv-cars-onion-final\\revv-cars-onion-final\\revv.cars.application.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{FD6F43AC-0CD0-912D-6D08-BBE9220083BA}|Revv-Cars-Onion-Final\\Revv.cars.Application.Web.csproj|solutionrelative:revv-cars-onion-final\\revv.cars.application.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|E:\\revv\\Csharp\\Revv-Cars-Onion-Final\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6BF25CAA-F353-4F3C-8F12-61C145B2B030}|Revv.cars.Shared\\Revv.cars.Shared.csproj|e:\\revv\\csharp\\revv-cars-onion-final\\revv.cars.shared\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BF25CAA-F353-4F3C-8F12-61C145B2B030}|Revv.cars.Shared\\Revv.cars.Shared.csproj|solutionrelative:revv.cars.shared\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF25CAA-F353-4F3C-8F12-61C145B2B030}|Revv.cars.Shared\\Revv.cars.Shared.csproj|e:\\revv\\csharp\\revv-cars-onion-final\\revv.cars.shared\\queries\\getcarbyidqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF25CAA-F353-4F3C-8F12-61C145B2B030}|Revv.cars.Shared\\Revv.cars.Shared.csproj|solutionrelative:revv.cars.shared\\queries\\getcarbyidqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF25CAA-F353-4F3C-8F12-61C145B2B030}|Revv.cars.Shared\\Revv.cars.Shared.csproj|e:\\revv\\csharp\\revv-cars-onion-final\\revv.cars.shared\\queries\\getcarbyidqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF25CAA-F353-4F3C-8F12-61C145B2B030}|Revv.cars.Shared\\Revv.cars.Shared.csproj|solutionrelative:revv.cars.shared\\queries\\getcarbyidqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6BF25CAA-F353-4F3C-8F12-61C145B2B030}|Revv.cars.Shared\\Revv.cars.Shared.csproj|e:\\revv\\csharp\\revv-cars-onion-final\\revv.cars.shared\\queries\\getallcarsqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -87,28 +107,8 @@
       "RelativeMoniker": "D:0:0:{DA0141E0-48A7-456E-91FE-8DD70F22F49F}|Revv.cars.Domain\\Revv.cars.Domain.csproj|solutionrelative:revv.cars.domain\\model\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCB80056-AFBE-4FAB-8135-60B18E564E7F}|Revv.cars.handler\\Revv.cars.DomainService.csproj|e:\\revv\\csharp\\revv-cars-onion-final\\revv.cars.handler\\repointerface\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCB80056-AFBE-4FAB-8135-60B18E564E7F}|Revv.cars.handler\\Revv.cars.DomainService.csproj|solutionrelative:revv.cars.handler\\repointerface\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCB80056-AFBE-4FAB-8135-60B18E564E7F}|Revv.cars.handler\\Revv.cars.DomainService.csproj|e:\\revv\\csharp\\revv-cars-onion-final\\revv.cars.handler\\queryhandler\\getcarbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCB80056-AFBE-4FAB-8135-60B18E564E7F}|Revv.cars.handler\\Revv.cars.DomainService.csproj|solutionrelative:revv.cars.handler\\queryhandler\\getcarbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCB80056-AFBE-4FAB-8135-60B18E564E7F}|Revv.cars.handler\\Revv.cars.DomainService.csproj|e:\\revv\\csharp\\revv-cars-onion-final\\revv.cars.handler\\queryhandler\\getallcarsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCB80056-AFBE-4FAB-8135-60B18E564E7F}|Revv.cars.handler\\Revv.cars.DomainService.csproj|solutionrelative:revv.cars.handler\\queryhandler\\getallcarsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCB80056-AFBE-4FAB-8135-60B18E564E7F}|Revv.cars.handler\\Revv.cars.DomainService.csproj|e:\\revv\\csharp\\revv-cars-onion-final\\revv.cars.handler\\commandhandler\\updatecarcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCB80056-AFBE-4FAB-8135-60B18E564E7F}|Revv.cars.handler\\Revv.cars.DomainService.csproj|solutionrelative:revv.cars.handler\\commandhandler\\updatecarcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCB80056-AFBE-4FAB-8135-60B18E564E7F}|Revv.cars.handler\\Revv.cars.DomainService.csproj|e:\\revv\\csharp\\revv-cars-onion-final\\revv.cars.handler\\commandhandler\\deletecarcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCB80056-AFBE-4FAB-8135-60B18E564E7F}|Revv.cars.handler\\Revv.cars.DomainService.csproj|solutionrelative:revv.cars.handler\\commandhandler\\deletecarcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCB80056-AFBE-4FAB-8135-60B18E564E7F}|Revv.cars.handler\\Revv.cars.DomainService.csproj|e:\\revv\\csharp\\revv-cars-onion-final\\revv.cars.handler\\commandhandler\\createcarcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCB80056-AFBE-4FAB-8135-60B18E564E7F}|Revv.cars.handler\\Revv.cars.DomainService.csproj|solutionrelative:revv.cars.handler\\commandhandler\\createcarcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|E:\\revv\\Csharp\\Revv-Cars-Onion-Final\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FD6F43AC-0CD0-912D-6D08-BBE9220083BA}|Revv-Cars-Onion-Final\\Revv.cars.Web.csproj|e:\\revv\\csharp\\revv-cars-onion-final\\revv-cars-onion-final\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -130,7 +130,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Revv.cars.Application.Web.csproj",
               "DocumentMoniker": "E:\\revv\\Csharp\\Revv-Cars-Onion-Final\\Revv-Cars-Onion-Final\\Revv.cars.Application.Web.csproj",
               "RelativeDocumentMoniker": "Revv-Cars-Onion-Final\\Revv.cars.Application.Web.csproj",
@@ -147,33 +147,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "CarUpload.cs",
               "DocumentMoniker": "E:\\revv\\Csharp\\Revv-Cars-Onion-Final\\Revv.cars.Shared\\CarUpload.cs",
               "RelativeDocumentMoniker": "Revv.cars.Shared\\CarUpload.cs",
               "ToolTip": "E:\\revv\\Csharp\\Revv-Cars-Onion-Final\\Revv.cars.Shared\\CarUpload.cs",
               "RelativeToolTip": "Revv.cars.Shared\\CarUpload.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-24T05:27:25.506Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Car.cs",
               "DocumentMoniker": "E:\\revv\\Csharp\\Revv-Cars-Onion-Final\\Revv.cars.Shared\\Car.cs",
               "RelativeDocumentMoniker": "Revv.cars.Shared\\Car.cs",
               "ToolTip": "E:\\revv\\Csharp\\Revv-Cars-Onion-Final\\Revv.cars.Shared\\Car.cs",
               "RelativeToolTip": "Revv.cars.Shared\\Car.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-24T05:27:22.85Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 14,
               "Title": "GetCarByIdQueryResponse.cs",
               "DocumentMoniker": "E:\\revv\\Csharp\\Revv-Cars-Onion-Final\\Revv.cars.Shared\\Queries\\GetCarByIdQueryResponse.cs",
               "RelativeDocumentMoniker": "Revv.cars.Shared\\Queries\\GetCarByIdQueryResponse.cs",
@@ -186,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 13,
               "Title": "GetCarByIdQueryRequest.cs",
               "DocumentMoniker": "E:\\revv\\Csharp\\Revv-Cars-Onion-Final\\Revv.cars.Shared\\Queries\\GetCarByIdQueryRequest.cs",
               "RelativeDocumentMoniker": "Revv.cars.Shared\\Queries\\GetCarByIdQueryRequest.cs",
@@ -199,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "GetAllCarsQueryResponse.cs",
               "DocumentMoniker": "E:\\revv\\Csharp\\Revv-Cars-Onion-Final\\Revv.cars.Shared\\Queries\\GetAllCarsQueryResponse.cs",
               "RelativeDocumentMoniker": "Revv.cars.Shared\\Queries\\GetAllCarsQueryResponse.cs",
@@ -212,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "GetAllCarsQueryRequest.cs",
               "DocumentMoniker": "E:\\revv\\Csharp\\Revv-Cars-Onion-Final\\Revv.cars.Shared\\Queries\\GetAllCarsQueryRequest.cs",
               "RelativeDocumentMoniker": "Revv.cars.Shared\\Queries\\GetAllCarsQueryRequest.cs",
@@ -225,195 +225,195 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "UpdateCarCommandResponse.cs",
               "DocumentMoniker": "E:\\revv\\Csharp\\Revv-Cars-Onion-Final\\Revv.cars.Shared\\Commands\\UpdateCarCommandResponse.cs",
               "RelativeDocumentMoniker": "Revv.cars.Shared\\Commands\\UpdateCarCommandResponse.cs",
               "ToolTip": "E:\\revv\\Csharp\\Revv-Cars-Onion-Final\\Revv.cars.Shared\\Commands\\UpdateCarCommandResponse.cs",
               "RelativeToolTip": "Revv.cars.Shared\\Commands\\UpdateCarCommandResponse.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-24T05:27:15.875Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "UpdateCarCommandRequest.cs",
               "DocumentMoniker": "E:\\revv\\Csharp\\Revv-Cars-Onion-Final\\Revv.cars.Shared\\Commands\\UpdateCarCommandRequest.cs",
               "RelativeDocumentMoniker": "Revv.cars.Shared\\Commands\\UpdateCarCommandRequest.cs",
               "ToolTip": "E:\\revv\\Csharp\\Revv-Cars-Onion-Final\\Revv.cars.Shared\\Commands\\UpdateCarCommandRequest.cs",
               "RelativeToolTip": "Revv.cars.Shared\\Commands\\UpdateCarCommandRequest.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-24T05:27:14.649Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "DeleteCarCommandResponse.cs",
               "DocumentMoniker": "E:\\revv\\Csharp\\Revv-Cars-Onion-Final\\Revv.cars.Shared\\Commands\\DeleteCarCommandResponse.cs",
               "RelativeDocumentMoniker": "Revv.cars.Shared\\Commands\\DeleteCarCommandResponse.cs",
               "ToolTip": "E:\\revv\\Csharp\\Revv-Cars-Onion-Final\\Revv.cars.Shared\\Commands\\DeleteCarCommandResponse.cs",
               "RelativeToolTip": "Revv.cars.Shared\\Commands\\DeleteCarCommandResponse.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-24T05:27:13.481Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "DeleteCarCommandRequest.cs",
               "DocumentMoniker": "E:\\revv\\Csharp\\Revv-Cars-Onion-Final\\Revv.cars.Shared\\Commands\\DeleteCarCommandRequest.cs",
               "RelativeDocumentMoniker": "Revv.cars.Shared\\Commands\\DeleteCarCommandRequest.cs",
               "ToolTip": "E:\\revv\\Csharp\\Revv-Cars-Onion-Final\\Revv.cars.Shared\\Commands\\DeleteCarCommandRequest.cs",
               "RelativeToolTip": "Revv.cars.Shared\\Commands\\DeleteCarCommandRequest.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-24T05:27:12.209Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "CreateCarCommandResponse.cs",
               "DocumentMoniker": "E:\\revv\\Csharp\\Revv-Cars-Onion-Final\\Revv.cars.Shared\\Commands\\CreateCarCommandResponse.cs",
               "RelativeDocumentMoniker": "Revv.cars.Shared\\Commands\\CreateCarCommandResponse.cs",
               "ToolTip": "E:\\revv\\Csharp\\Revv-Cars-Onion-Final\\Revv.cars.Shared\\Commands\\CreateCarCommandResponse.cs",
               "RelativeToolTip": "Revv.cars.Shared\\Commands\\CreateCarCommandResponse.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-24T05:27:10.764Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "CreateCarCommandRequest.cs",
               "DocumentMoniker": "E:\\revv\\Csharp\\Revv-Cars-Onion-Final\\Revv.cars.Shared\\Commands\\CreateCarCommandRequest.cs",
               "RelativeDocumentMoniker": "Revv.cars.Shared\\Commands\\CreateCarCommandRequest.cs",
               "ToolTip": "E:\\revv\\Csharp\\Revv-Cars-Onion-Final\\Revv.cars.Shared\\Commands\\CreateCarCommandRequest.cs",
               "RelativeToolTip": "Revv.cars.Shared\\Commands\\CreateCarCommandRequest.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAA9wAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-24T05:27:09.217Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "CarMappingProfile.cs",
               "DocumentMoniker": "E:\\revv\\Csharp\\Revv-Cars-Onion-Final\\Revv.cars.Domain\\CarMappingProfile.cs",
               "RelativeDocumentMoniker": "Revv.cars.Domain\\CarMappingProfile.cs",
               "ToolTip": "E:\\revv\\Csharp\\Revv-Cars-Onion-Final\\Revv.cars.Domain\\CarMappingProfile.cs",
               "RelativeToolTip": "Revv.cars.Domain\\CarMappingProfile.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-24T05:27:03.677Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "CarUpload.cs",
               "DocumentMoniker": "E:\\revv\\Csharp\\Revv-Cars-Onion-Final\\Revv.cars.Domain\\Model\\CarUpload.cs",
               "RelativeDocumentMoniker": "Revv.cars.Domain\\Model\\CarUpload.cs",
               "ToolTip": "E:\\revv\\Csharp\\Revv-Cars-Onion-Final\\Revv.cars.Domain\\Model\\CarUpload.cs",
               "RelativeToolTip": "Revv.cars.Domain\\Model\\CarUpload.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-24T05:27:01.849Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "Car.cs",
               "DocumentMoniker": "E:\\revv\\Csharp\\Revv-Cars-Onion-Final\\Revv.cars.Domain\\Model\\Car.cs",
               "RelativeDocumentMoniker": "Revv.cars.Domain\\Model\\Car.cs",
               "ToolTip": "E:\\revv\\Csharp\\Revv-Cars-Onion-Final\\Revv.cars.Domain\\Model\\Car.cs",
               "RelativeToolTip": "Revv.cars.Domain\\Model\\Car.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-24T05:26:59.444Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 5,
               "Title": "ICarRepository.cs",
               "DocumentMoniker": "E:\\revv\\Csharp\\Revv-Cars-Onion-Final\\Revv.cars.handler\\RepoInterface\\ICarRepository.cs",
               "RelativeDocumentMoniker": "Revv.cars.handler\\RepoInterface\\ICarRepository.cs",
               "ToolTip": "E:\\revv\\Csharp\\Revv-Cars-Onion-Final\\Revv.cars.handler\\RepoInterface\\ICarRepository.cs",
               "RelativeToolTip": "Revv.cars.handler\\RepoInterface\\ICarRepository.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-24T05:26:55.959Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 6,
               "Title": "GetCarByIdQueryHandler.cs",
               "DocumentMoniker": "E:\\revv\\Csharp\\Revv-Cars-Onion-Final\\Revv.cars.handler\\QueryHandler\\GetCarByIdQueryHandler.cs",
               "RelativeDocumentMoniker": "Revv.cars.handler\\QueryHandler\\GetCarByIdQueryHandler.cs",
               "ToolTip": "E:\\revv\\Csharp\\Revv-Cars-Onion-Final\\Revv.cars.handler\\QueryHandler\\GetCarByIdQueryHandler.cs",
               "RelativeToolTip": "Revv.cars.handler\\QueryHandler\\GetCarByIdQueryHandler.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-24T05:26:51.641Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 7,
               "Title": "GetAllCarsQueryHandler.cs",
               "DocumentMoniker": "E:\\revv\\Csharp\\Revv-Cars-Onion-Final\\Revv.cars.handler\\QueryHandler\\GetAllCarsQueryHandler.cs",
               "RelativeDocumentMoniker": "Revv.cars.handler\\QueryHandler\\GetAllCarsQueryHandler.cs",
               "ToolTip": "E:\\revv\\Csharp\\Revv-Cars-Onion-Final\\Revv.cars.handler\\QueryHandler\\GetAllCarsQueryHandler.cs",
               "RelativeToolTip": "Revv.cars.handler\\QueryHandler\\GetAllCarsQueryHandler.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBQAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-24T05:26:49.653Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 8,
               "Title": "UpdateCarCommandHandler.cs",
               "DocumentMoniker": "E:\\revv\\Csharp\\Revv-Cars-Onion-Final\\Revv.cars.handler\\CommandHandler\\UpdateCarCommandHandler.cs",
               "RelativeDocumentMoniker": "Revv.cars.handler\\CommandHandler\\UpdateCarCommandHandler.cs",
               "ToolTip": "E:\\revv\\Csharp\\Revv-Cars-Onion-Final\\Revv.cars.handler\\CommandHandler\\UpdateCarCommandHandler.cs",
               "RelativeToolTip": "Revv.cars.handler\\CommandHandler\\UpdateCarCommandHandler.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAqwDYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-24T05:26:39.121Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 9,
               "Title": "DeleteCarCommandHandler.cs",
               "DocumentMoniker": "E:\\revv\\Csharp\\Revv-Cars-Onion-Final\\Revv.cars.handler\\CommandHandler\\DeleteCarCommandHandler.cs",
               "RelativeDocumentMoniker": "Revv.cars.handler\\CommandHandler\\DeleteCarCommandHandler.cs",
               "ToolTip": "E:\\revv\\Csharp\\Revv-Cars-Onion-Final\\Revv.cars.handler\\CommandHandler\\DeleteCarCommandHandler.cs",
               "RelativeToolTip": "Revv.cars.handler\\CommandHandler\\DeleteCarCommandHandler.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-24T05:26:36.858Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 10,
               "Title": "CreateCarCommandHandler.cs",
               "DocumentMoniker": "E:\\revv\\Csharp\\Revv-Cars-Onion-Final\\Revv.cars.handler\\CommandHandler\\CreateCarCommandHandler.cs",
               "RelativeDocumentMoniker": "Revv.cars.handler\\CommandHandler\\CreateCarCommandHandler.cs",
               "ToolTip": "E:\\revv\\Csharp\\Revv-Cars-Onion-Final\\Revv.cars.handler\\CommandHandler\\CreateCarCommandHandler.cs",
               "RelativeToolTip": "Revv.cars.handler\\CommandHandler\\CreateCarCommandHandler.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-24T05:26:33.101Z",
               "EditorCaption": ""
@@ -426,7 +426,7 @@
               "RelativeDocumentMoniker": "Revv-Cars-Onion-Final\\Program.cs",
               "ToolTip": "E:\\revv\\Csharp\\Revv-Cars-Onion-Final\\Revv-Cars-Onion-Final\\Program.cs",
               "RelativeToolTip": "Revv-Cars-Onion-Final\\Program.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-24T05:26:26.233Z",
               "EditorCaption": ""
@@ -459,20 +459,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "CarController.cs",
               "DocumentMoniker": "E:\\revv\\Csharp\\Revv-Cars-Onion-Final\\Revv-Cars-Onion-Final\\Controllers\\CarController.cs",
               "RelativeDocumentMoniker": "Revv-Cars-Onion-Final\\Controllers\\CarController.cs",
               "ToolTip": "E:\\revv\\Csharp\\Revv-Cars-Onion-Final\\Revv-Cars-Onion-Final\\Controllers\\CarController.cs",
               "RelativeToolTip": "Revv-Cars-Onion-Final\\Controllers\\CarController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-24T05:26:12.785Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MongoDBSettings.cs",
               "DocumentMoniker": "E:\\revv\\Csharp\\Revv-Cars-Onion-Final\\Revv.cars.Repo\\repository\\MongoDBSettings.cs",
               "RelativeDocumentMoniker": "Revv.cars.Repo\\repository\\MongoDBSettings.cs",
@@ -485,20 +485,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CarRepository.cs",
               "DocumentMoniker": "E:\\revv\\Csharp\\Revv-Cars-Onion-Final\\Revv.cars.Repo\\repository\\CarRepository.cs",
               "RelativeDocumentMoniker": "Revv.cars.Repo\\repository\\CarRepository.cs",
               "ToolTip": "E:\\revv\\Csharp\\Revv-Cars-Onion-Final\\Revv.cars.Repo\\repository\\CarRepository.cs",
               "RelativeToolTip": "Revv.cars.Repo\\repository\\CarRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwA8AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-24T05:25:54.979Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 26,
               "Title": ".dockerignore",
               "DocumentMoniker": "E:\\revv\\Csharp\\Revv-Cars-Onion-Final\\.dockerignore",
               "RelativeDocumentMoniker": ".dockerignore",
